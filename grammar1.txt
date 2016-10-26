@@ -4,6 +4,7 @@ S -> VP
 NP -> Pronoun
 NP -> Proper_Noun
 NP -> Det Nominal
+NP -> Nominal
 Nominal -> Noun
 Nominal -> Nominal Noun
 Nominal -> Nominal PP

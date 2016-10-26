@@ -1,0 +1,5 @@
+Noun -> menu
+Det -> the
+Preposition -> on|from|to
+Verb -> Show
+Proper_Noun -> Shatabdi|Kanpur|Kolkata
